@@ -11,13 +11,3 @@ Standard industrial OCR heuristics often suffer from artificial ceiling effects 
 * Dataset access (GitHub Releases): To prevent repository bloat, the static raw PDF evaluation corpus is distributed via GitHub Releases rather than tracked in the version history. 
   1. Navigate to the **Releases** section on the right-hand sidebar of this repository.
   2. Download the `raw_pdfs.zip` asset from the `v1.0-data` release.
-
-## Citation
-If you utilize this framework or dataset in your research, please cite the associated manuscript:
-```bibtex
-@article{Pieterse2026Calibration,
-  title={Towards trustworthy confidence calibration in tabular extraction},
-  author={Pieterse, Christiaan J. and Venter, PvZ},
-  journal={...}, # To be announced
-  year={2026}
-}
